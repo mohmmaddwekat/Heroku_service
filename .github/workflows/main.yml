@@ -19,7 +19,7 @@ jobs:
       - uses: akhileshns/heroku-deploy@v3.6.8 # This is the action
         with:
           heroku_api_key: ${{secrets.HEROKU_API_KEY}}
-          heroku_app_name: "heroku23"
+          heroku_app_name: "herokumoh23223"
           heroku_email: "mhmab1432@gmail.com"
           usedocker: 1
           dontuseforce: 1
